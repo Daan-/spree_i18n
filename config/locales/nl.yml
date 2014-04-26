@@ -303,7 +303,7 @@ nl:
           error: ! 'Testmail fout: %{e}'
       tab:
         configuration: Configuratie
-        option_types: Types opties
+        option_types: Optietypes
         orders: Bestellingen
         overview: Overzicht
         products: Producten
@@ -708,7 +708,7 @@ nl:
     on_hand: Op voorraad
     open: Open
     open_all_adjustments: Open alle aanpassingen
-    option_type: Option type
+    option_type: Optietype
     option_type_placeholder: Optietype toevoegen
     option_types: Optietypes
     option_value: Optiewaarde
