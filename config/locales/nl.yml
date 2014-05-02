@@ -701,6 +701,7 @@ nl:
     no_results: Geen resultaten
     no_rules_added: Geen regels toegevoegd
     no_shipping_methods_found: Geen verzendmethodes gevonden
+    no_shipping_method_selected: Geen verzendmethode geselecteerd
     no_stock_locations_found: Geen voorraadlocaties gevonden
     no_trackers_found: Geen trackers gevonden
     no_tracking_present: Geen tracking details opgegeven.
