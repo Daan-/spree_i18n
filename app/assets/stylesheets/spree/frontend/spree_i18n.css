@@ -6,3 +6,8 @@
  *= require spree/frontend
  *= require_tree .
 */
+
+#locale-select {
+    float: right;
+    margin-right: 10px;
+}
