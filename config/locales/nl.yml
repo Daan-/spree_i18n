@@ -282,7 +282,7 @@ nl:
     add_product: Product toevoegen
     add_product_properties: Producteigenschap toevoegen
     add_rule_of_type: Regeltype toevoegen
-    add_state: Status toevoegen
+    add_state: Staat/provincie toevoegen
     add_stock: Voorraad toevoegen
     add_stock_management: Voorraadbeheer toevoegen
     add_to_cart: Toevoegen aan winkelwagen
@@ -1003,10 +1003,10 @@ nl:
     spree_gateway_error_flash_for_checkout: Er was een probleem met je betaal gegevens. Controleer je gegevens en probeer het opnieuw.
     start: Start
     start_date: Geldig vanaf
-    state: Status
-    state_based: Status gebaseerd
-    states: Statussen
-    states_required: Vereiste statussen
+    state: Staat/provincie
+    state_based: Staat/provincie gebaseerd
+    states: Staten/provincies
+    states_required: Staat/provincie verplicht
     status: Status
     stock_location: Voorraadlocatie
     stock_location_info: Voorraadlocatie info
